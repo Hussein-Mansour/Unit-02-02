@@ -1,0 +1,20 @@
+body {
+        background: linear-gradient(to right, white,rgb(169, 255, 71),white,rgb(196,255,71));
+}
+
+h1  {
+      text-align: center ;
+      background-color: #ffffff ;
+      font-family: Verdana, Geneva, Tahoma, sans-serif ;
+      border: solid;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.all {
+          background-color: #ffffff;
+          border: solid;
+          text-align: center;
+}
